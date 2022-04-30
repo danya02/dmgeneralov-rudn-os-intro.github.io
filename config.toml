@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dmgeneralov-rudn-os-intro.danya02.ru/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishDir="docs"
