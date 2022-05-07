@@ -9,10 +9,10 @@ summary: Этот пост является постом о неделе 18 по
 projects: []
 
 # Date published
-date: '2022-05-07T21:00:00Z'
+date: '2022-05-07T18:30:00Z'
 
 # Date updated
-lastmod: '2022-05-07T21:00:00Z'
+lastmod: '2022-05-07T18:30:00Z'
 
 # Is this an unpublished draft?
 draft: false
