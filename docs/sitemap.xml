@@ -50,4 +50,18 @@
   <url>
     <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/reflection/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/reflection/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/week-18/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/week-18/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/weekly/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/weekly/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/weekly-18/</loc><changefreq>weekly</changefreq></url></urlset>
