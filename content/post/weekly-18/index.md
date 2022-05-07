@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Еженедельный пост на неделю 18
+subtitle: Этот пост является постом о неделе 18 по правилам составления индивидуального проекта.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Этот пост является постом о неделе 18 по правилам составления индивидуального проекта.
 
 # Link this post with a project
 projects: []
