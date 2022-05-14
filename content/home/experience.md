@@ -26,7 +26,7 @@ experience:
     company: РУДН
     company_url: 'https://rudn.ru'
     company_logo: rudn
-    location: California
+    location: Москва
     date_start: '2021-09-01'
     date_end: ''
     description: Учусь на курсе НПИ-01-21 и выполняю этот проект
