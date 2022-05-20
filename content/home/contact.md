@@ -25,32 +25,29 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  email: rudn-website@danya02.ru
   contact_links:
-    - icon: twitter
+    - icon: orcid
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
+      name: ORCID
+      link: 'https://orcid.org/0000-0002-2337-1176'
+    - icon: x
       icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: arXiv
+      link: 'https://arxiv.org/a/0000-0002-2337-1176.html'
+    - icon: github
+      icon_pack: fab
+      name: GitHub
+      link: 'https://github.com/danya02'
+    - icon: steam-square
+      icon_pack: fab
+      name: Steam
+      link: 'https://steamcommunity.com/profiles/76561198408196875/'
+    - icon: globe
+      icon_pack: fas
+      name: Website
+      link: 'https://danya02.ru'
+      
 
 design:
   columns: '2'
