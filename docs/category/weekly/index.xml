@@ -5,12 +5,42 @@
     <link>https://example.com/category/weekly/</link>
       <atom:link href="https://example.com/category/weekly/index.xml" rel="self" type="application/rss+xml" />
     <description>Weekly</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 18:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weekly</title>
       <link>https://example.com/category/weekly/</link>
     </image>
+    
+    <item>
+      <title>Еженедельный пост на неделю 20</title>
+      <link>https://example.com/post/weekly-20/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/post/weekly-20/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 20 мая 2022 года, и покрывает 20 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;В течение недели одним из нестандартных обстоятельств стала контрольная работа по предмету &amp;ldquo;технология программирования&amp;rdquo;, где нужно было реализовать некоторые операции над списками и массивами.
+Это несколько осложнилось тем, что результаты работы должны быть написаны на бумаге.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В зависимости от используемой среды передачи, аптайм систем может быть сильно больше или сильно меньше аптайма линий связи &amp;ndash; в случае с сотовой сетью системы перезагружаются чаще, а в случае с Wi-Fi &amp;ndash; чаще перезагружается сам линк.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Конфигурационный интерфейс OpenWRT не поддерживает указание особых директив DHCP-сервера, и их может быть нужно задавать через ручное редактирование конфигурационных файлов&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Частота семплирования, с которой работает осциллограф, может иметь диспропорциональное влияние на содержание сигнала, который измеряется им.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Я не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Еженедельный пост на неделю 19</title>

@@ -5,12 +5,22 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Этот сайт</title>
+      <link>https://example.com/project/this/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/this/</guid>
+      <description>&lt;p&gt;Для оптимизации работы над этим сайтом, как проект мы будем использовать сам этот сайт.&lt;/p&gt;
+&lt;p&gt;Это должно быть описание проекта, но про этот конкретный проект ничего ценного не может быть сказано.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>

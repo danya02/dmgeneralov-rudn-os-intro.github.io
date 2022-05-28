@@ -10,31 +10,45 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/what/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/reflection/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/project/this/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/reflection/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/topical/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/topical/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/reflection/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/reflection/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/topical/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/topical/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/week-20/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/week-20/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tag/weekly/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/weekly/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/weekly-20/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/bibliography-management/</loc><lastmod>2022-05-20T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/week-19/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/category/week-19/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/weekly/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/weekly/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/weekly-19/</loc><lastmod>2022-05-14T18:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -67,8 +81,6 @@
     <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
