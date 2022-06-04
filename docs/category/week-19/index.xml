@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Week 19 | Academic</title>
+    <title>Week 19 | Project site in English</title>
     <link>https://example.com/category/week-19/</link>
       <atom:link href="https://example.com/category/week-19/index.xml" rel="self" type="application/rss+xml" />
     <description>Week 19</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 18:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 14 May 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Week 19</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Markup languages, LaTeX</title>
-      <link>https://example.com/en/post/latex/</link>
+      <link>https://example.com/post/latex/</link>
       <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/latex/</guid>
+      <guid>https://example.com/post/latex/</guid>
       <description>&lt;p&gt;A markup language is a way of writing text in a format that is suitable for machine processing and often contains, in addition to the text, instructions for displaying that text.
 There are many different markup languages ​​that work well for different tasks.&lt;/p&gt;
 &lt;p&gt;We will consider the LaTeX language, which is most often used for writing scientific papers.
@@ -53,10 +53,10 @@ Backslashes are used to call commands, and curly braces are used to specify argu
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Equation&#34; srcset=&#34;
-               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp 400w,
-               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_a3eafbc8655cf0f82ada9ef5713825cf.webp 760w,
-               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp&#34;
+               /post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_87e3823679934a283f6a2df5a7372fab.webp 400w,
+               /post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_bef212bf9bf7a9a6c2eacd747977250b.webp 760w,
+               /post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_87e3823679934a283f6a2df5a7372fab.webp&#34;
                width=&#34;760&#34;
                height=&#34;112&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -71,9 +71,9 @@ Some programs even use the LaTeX engine as part of their work &amp;ndash; for ex
     
     <item>
       <title>Weekly post 19</title>
-      <link>https://example.com/en/post/weekly-19/</link>
+      <link>https://example.com/post/weekly-19/</link>
       <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/weekly-19/</guid>
+      <guid>https://example.com/post/weekly-19/</guid>
       <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 14, 2022, and covers week 19, 2022.&lt;/p&gt;
 &lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
 &lt;p&gt;It is impossible to provide special important reports for this week, as well as for the previous one.
@@ -96,93 +96,6 @@ This is because we are now in a cycle of work that seems to be endless, and it i
 &lt;p&gt;Fairly poor progress on a robotics project that was assigned to me in an elective course. One of the main reasons for this is that the power supply of the robot consists of 18650 batteries, and the ones that are available to me are quite broken.&lt;/p&gt;
 &lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
 &lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Еженедельный пост на неделю 19</title>
-      <link>https://example.com/ru/post/weekly-19/</link>
-      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-19/</guid>
-      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 14 мая 2022 года, и покрывает 19 неделю 2022 года.&lt;/p&gt;
-&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
-&lt;p&gt;Особенных важных отчетов по этой неделе, как и по предыдущей, предоставить невозможно.
-Это потому, что сейчас мы находимся в цикле работы, который кажется бесконечным, и отличить одну неделю от другой становится все более и более трудно.&lt;/p&gt;
-&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Макросы в Rust должны иметь вид, при котором даже без раскрытия макроса код представляет валидное синтаксическое дерево. Это отличает их от макросов в C/C++, где они лишь выполняют текстовую замену.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Объем диска, который занимают записи видео выполнения работы, на несколько порядков превышает пользу этих видео. В текущих обстоятельствах следует сократить объем, используемый для этих видео.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Использовать Rutube &amp;ndash; российскую платформу &amp;ndash; в промышленной деятельности оказывается противопоказано, поскольку она не способна выдерживать SLA, которые можно ожидать от альтернативных платформ.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
-&lt;p&gt;В рамках выполнения этого персонального проекта мы учимся находить способы оптимизации работы. Эти способы иногда приводят к понижению качества, но, следуя классической трихотомии требований, мы можем этим пожертвовать для общего блага.&lt;/p&gt;
-&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
-&lt;p&gt;Довольно низкая степень прогресса над проектом робототехники, который был назначен мне на курсе по выбору. Одна из основных причин этого в том, что блок питания робота состоит из аккумуляторов 18650, а те экземпляры, которые доступны мне, весьма сломаны.&lt;/p&gt;
-&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
-&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Языки разметки. LaTeX</title>
-      <link>https://example.com/ru/post/latex/</link>
-      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/latex/</guid>
-      <description>&lt;p&gt;Язык разметки &amp;ndash; это способ записи текста в формате, который пригоден для машинной обработки, и часто содержит, помимо текста, инструкции по отображению этого текста.
-Существует много различных языков разметки, которые работают хорошо для разных задач.&lt;/p&gt;
-&lt;p&gt;Мы будем рассматривать язык LaTeX, который чаще всего используется для написания научных работ.
-Он является расширением языка верстки TeX, изобретенным Дональдом Кнутом в 1978 году.
-Для вызова команд используется обратный слеш, а для указания аргументов &amp;ndash; фигурные скобки:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Этот текст &lt;span class=&#34;k&#34;&gt;\emph&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;выделен курсивом&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Этот текст написан &lt;span class=&#34;k&#34;&gt;\textbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;жирным шрифтом&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст ещё больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст ЕЩЁ больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст огромный.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст Огромный.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Одна из самых известных способностей языка LaTeX &amp;ndash; это возможность вводить сложные математические формулы. Например, этот код:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\Delta&lt;/span&gt; M&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;-1&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; = - &lt;span class=&#34;k&#34;&gt;\alpha&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;n=1&lt;span class=&#34;nb&#34;&gt;}^&lt;/span&gt;N D&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ \sum_{j \in C \left[ i \right]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{}&lt;/span&gt; F&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;ji&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n -1 \right]&lt;/span&gt; + Fext&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n^{-1} \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\right&lt;/span&gt;]
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip;отображается следующим образом:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Equation&#34; srcset=&#34;
-               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp 400w,
-               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_a3eafbc8655cf0f82ada9ef5713825cf.webp 760w,
-               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;112&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;(Это выражение является названием &lt;a href=&#34;https://www.youtube.com/watch?v=M9xMuPWAZW8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;одного из треков композитора Aphex Twin&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;Из-за этой возможности LaTeX остается золотым стандартом форматирования математических текстов, и часто другие среды создания документов (например Microsoft Word) копируют некоторые элементы синтаксиса.
-Некоторые программы даже используют движок LaTeX как часть своей работы &amp;ndash; так, Pandoc использует его для преобразования документов в формат PDF, а &lt;a href=&#34;https://www.manim.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;библиотека программируемых анимаций Manim&lt;/a&gt; использует его для отображения математических формул в виде SVG.&lt;/p&gt;
-&lt;p&gt;LaTeX также имеет широкую стандартную библиотеку, которая позволяет использовать его для отображения картинок, графиков, блоков кода и многого другого. Таким образом, язык LaTeX является одним из важнейших языков разметки в сфере научных документов, и его стоит знать любому, кто планирует писать документы с математическими формулами или другими сложными элементами отображения.&lt;/p&gt;
 </description>
     </item>
     

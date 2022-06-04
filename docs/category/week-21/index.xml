@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Week 21 | Academic</title>
+    <title>Week 21 | Project site in English</title>
     <link>https://example.com/category/week-21/</link>
       <atom:link href="https://example.com/category/week-21/index.xml" rel="self" type="application/rss+xml" />
     <description>Week 21</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 18:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 28 May 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Week 21</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/en/post/scientific-programming/</link>
+      <link>https://example.com/post/scientific-programming/</link>
       <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/scientific-programming/</guid>
+      <guid>https://example.com/post/scientific-programming/</guid>
       <description>&lt;p&gt;Scientific programming is a field of programming that relies on the use of computers for research purposes.
 His tasks are often very different from industrial programming &amp;ndash;
 while there is often a focus on code readability and maintainability, here the speed with which the program design can be iterated is more important.&lt;/p&gt;
@@ -44,9 +44,9 @@ However, in scientific programming, there are often questions that can be framed
     
     <item>
       <title>Weekly post 21</title>
-      <link>https://example.com/en/post/weekly-21/</link>
+      <link>https://example.com/post/weekly-21/</link>
       <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/weekly-21/</guid>
+      <guid>https://example.com/post/weekly-21/</guid>
       <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 28, 2022, and covers 21 weeks of 2022.&lt;/p&gt;
 &lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
 &lt;p&gt;By all accounts, there are only a few weeks left until the end of this module. This circumstance was surprising to many, including me, who began to perceive what was happening as their personal hell.&lt;/p&gt;
@@ -69,66 +69,6 @@ However, in scientific programming, there are often questions that can be framed
 This should be done as soon as possible.&lt;/p&gt;
 &lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
 &lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Еженедельный пост на неделю 21</title>
-      <link>https://example.com/ru/post/weekly-21/</link>
-      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-21/</guid>
-      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 28 мая 2022 года, и покрывает 21 неделю 2022 года.&lt;/p&gt;
-&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
-&lt;p&gt;По всем утверждениям, до конца этого модуля остается небольшое количество недель. Это обстоятельство оказалось удивительным для многих, включая меня, которые начали воспринимать происходящее как свой персональный ад.&lt;/p&gt;
-&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Уровень энергии, заключенной в хранилище, очень часто никак не влияет на саму структуру хранилища, но может повлиять на окружение, если хранилище будет потревожено.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Литий-ионные аккумуляторы должны быть на среднем уровне заряда в транспортировке, чтобы минимизировать риск спонтанного возгорания.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;USB-устройства могут иметь до 16 различных виртуальных устройств, называемых &amp;ldquo;endpoints&amp;rdquo;. Протоколы между ними не должны быть унифицированными.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
-&lt;p&gt;Работает &amp;ndash; не трогай.&lt;/p&gt;
-&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
-&lt;p&gt;Я до сих пор не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.
-Это следует сделать как можно скорее.&lt;/p&gt;
-&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
-&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/scientific-programming/</link>
-      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-programming/</guid>
-      <description>&lt;p&gt;Научное программирование &amp;ndash; это область программирования, которая основывается на том, чтобы использовать компьютеры для исследовательских задач.
-Его задачи часто сильно отличаются от промышленного программирования &amp;ndash;
-когда там часто есть фокус на читаемость кода и удобство поддержки, здесь же бывает важнее скорость, с которой можно итерировать дизайн программы.&lt;/p&gt;
-&lt;p&gt;Из-за этой особенности многие языки программирования плохо пригодны для научного программирования.
-Например, Rust, с его фокусом на формальную корректность всех использований памяти, часто тормозит разработчика,
-а Java и другие строго объектно-ориентированные языки требуют более фундаментальной архитектуры, чем часто возможна в научном программировании.&lt;/p&gt;
-&lt;p&gt;Один из языков, который очень часто используется в научном программировании &amp;ndash; это Python.
-Он очень популярен, имеет простой в освоении синтаксис, позволяет много разных подходов к решению архитектурных задач,
-и к тому же интегрируется в библиотеки, написанные на C и C++, которые работают быстрее и реализуют самые сложные части алгоритмов.
-Это делает язык Python удобным для склеивания вместе разных данных и обработки их различными способами, что как раз и полезно в научном программировании.&lt;/p&gt;
-&lt;p&gt;Другие языки, которые часто используются для работы с данными &amp;ndash; R, Julia и Ada &amp;ndash; имеют простой синтаксис, богатую систему типов, и связь с C/C++-кодом,
-и все эти функции тоже делают их полезными в научном программировании.&lt;/p&gt;
-&lt;p&gt;Среди других вариантов, функциональные языки, вроде Haskell, F# и Clojure, позволяют описывать алгоритмы в более декларативном стиле &amp;ndash;
-не говорить, какие вычисления должны быть сделаны, а вместо этого указывать формулы, которые в итоге нужно вычислить.&lt;/p&gt;
-&lt;p&gt;Более редкие парадигмы программирования вроде логического програмимирования &amp;ndash; реализованные, например, в Prolog и Erlang &amp;ndash; редко используются в промышленных задачах,
-но в научном программировании часто бывают полезны.
-В логическом программировании программист указывает утверждения по поводу терминов &amp;ndash; например, &amp;ldquo;Если что-то является кошкой, то это является животным&amp;rdquo;,
-&amp;ldquo;Если что-то является животным, то это является живым или мертвым&amp;rdquo;, &amp;ldquo;Если что-то является живым, то это не является мертвым&amp;rdquo;, &amp;ldquo;Существует что-то, что называется Барсик&amp;rdquo;, &amp;ldquo;Если что-то называется Барсик, то это является кошкой&amp;rdquo; и &amp;ldquo;Если что-то называется Барсик, то это не является мертвым&amp;rdquo;.
-После этого можно задавать вопросы вроде &amp;ldquo;Какие вещи являются животными?&amp;rdquo;, &amp;ldquo;Какие вещи являются живыми и мертвыми одновременно?&amp;rdquo;, &amp;ldquo;Является ли Барсик кошкой и живым?&amp;rdquo; и т.д.
-Такого рода рассуждения часто называют логическими высказываниями, и большинство программ трудно перевести к форме, которая целиком состоит из логических высказываний.
-Однако в научном программировании часто есть вопросы, которые можно оформить в виде логических утверждений, и такие языки помогают в этом.&lt;/p&gt;
-&lt;p&gt;Таким образом, научное программирование имеет задачи, которые часто отличаются от промышленных задач, поэтому набор языков и парадигм, которые находят применение в научном программировании, весьма широк.&lt;/p&gt;
 </description>
     </item>
     

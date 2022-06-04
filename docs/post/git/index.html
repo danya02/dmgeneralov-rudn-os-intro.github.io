@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-us" >
+<!DOCTYPE html><html lang="en" >
 
 
 <head>
@@ -64,10 +64,10 @@
   
     
   
-  <meta name="description" content="Пост на тему по выбору на неделю 18" />
+  <meta name="description" content="Choice topic for week 18" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://example.com/post/git/" />
+  <link rel="alternate" hreflang="en" href="https://example.com/post/git/" />
 
   
   
@@ -307,11 +307,11 @@
     <meta property="twitter:site" content="@wowchemy" />
     <meta property="twitter:creator" content="@wowchemy" />
   
-  <meta property="og:site_name" content="Academic" />
+  <meta property="og:site_name" content="Project site in English" />
   <meta property="og:url" content="https://example.com/post/git/" />
-  <meta property="og:title" content="Управление версиями. Git | Academic" />
-  <meta property="og:description" content="Пост на тему по выбору на неделю 18" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="Version control and Git | Project site in English" />
+  <meta property="og:description" content="Choice topic for week 18" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en" />
   
     
       <meta
@@ -345,7 +345,7 @@
     "@type": "WebPage",
     "@id": "https://example.com/post/git/"
   },
-  "headline": "Управление версиями. Git",
+  "headline": "Version control and Git",
   
   "datePublished": "2022-05-07T18:30:00Z",
   "dateModified": "2022-05-07T18:30:00Z",
@@ -357,13 +357,13 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Academic",
+    "name": "Project site in English",
     "logo": {
       "@type": "ImageObject",
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Пост на тему по выбору на неделю 18"
+  "description": "Choice topic for week 18"
 }
 </script>
 
@@ -379,7 +379,7 @@
 
 
 
-  <title>Управление версиями. Git | Academic</title>
+  <title>Version control and Git | Project site in English</title>
 </head>
 
 
@@ -394,7 +394,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.e22a2a20712150175b9cd707be2d0584.js"></script>
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
 
   
 
@@ -458,7 +458,7 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Academic</a>
+        <a class="navbar-brand" href="/">Project site in English</a>
       </div>
       
 
@@ -471,7 +471,7 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Academic</a>
+        <a class="navbar-brand" href="/">Project site in English</a>
       </div>
       
 
@@ -784,10 +784,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>Управление версиями. Git</h1>
+  <h1>Version control and Git</h1>
 
   
-  <p class="page-subtitle">Пост на тему по выбору на неделю 18</p>
+  <p class="page-subtitle">Choice topic for week 18</p>
   
 
   
@@ -824,7 +824,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    4 min read
   </span>
   
 
@@ -856,30 +856,30 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Системы контроля модификаций (СКВ) позволяют отслеживать изменения в коде, просматривать историю для поиска определенных изменений, а также координировать работу над одной и той же базой кода между несколькими разработчиками.
-Сегодня мы рассмотрим, как устроена одна из самых популярных СКВ &ndash; Git.</p>
-<h1 id="история">История</h1>
-<p>Git был разработан в 2005 году Линусом Торвальдсом для помощи в разрботке ядра Linux. Незадолго до этого произошел скандал с Bitkeeper &ndash; проприетарной системой контроля версий, которая использовалась многими разработчиками, но перестала быть бесплатно доступна после того, как правообладатель узнал, что она была обратно-разработана, чтобы создать SourcePuller.</p>
-<p>Целями проекта были: сделать распределенную СКВ, которая могла бы поддерживать процедуру, похожую на Bitkeeper, но также была быстрой (не более трех секунд на применение патча) и имела сильную защиту от ошибок и непреднамеренных модификаций.</p>
-<h1 id="принципы">Принципы</h1>
-<p>Примитивные структуры данных Git не обязательно реализуют СКВ. Существуют два места, где хранится информация &ndash; динамический <em>индекс</em>, который описывает состояние рабочего дерева, и неизменяемая <em>база данных объектов</em>. В последней хранятся следующие пять типов объектов:</p>
+      <p>Modification Control Systems (VCS) allow you to track changes in your code, look through history to look for specific changes, and coordinate work on the same code base between multiple developers.
+Today we will look at how one of the most popular VCS, Git, works.</p>
+<h1 id="story">Story</h1>
+<p>Git was developed in 2005 by Linus Torvalds to help develop the Linux kernel. Shortly before this, there was a scandal with Bitkeeper, a proprietary version control system that was used by many developers, but was no longer available for free after the copyright holder found out that it was reverse-engineered to create SourcePuller.</p>
+<p>The goals of the project were: to make a distributed VCS that could support a procedure similar to Bitkeeper, but was also fast (no more than three seconds to apply a patch) and had strong protection against errors and unintentional modifications.</p>
+<h1 id="principles">Principles</h1>
+<p>Git&rsquo;s primitive data structures do not necessarily implement VCS. There are two places where information is stored &ndash; a dynamic <em>index</em> that describes the state of the working tree, and an immutable <em>object database</em>. The latter stores the following five types of objects:</p>
 <ul>
-<li>BLOB &ndash; содержимое файла, обозначаемое своим хешем. Каждый BLOB &ndash; это отдельная версия файла.</li>
-<li>дерево &ndash; это аналог директории, которая имеет ссылки на под-деревья и BLOB, чтобы представить одну версию рабочего дерева.</li>
-<li>коммит &ndash; это элемент истории, указывающий на дерево, описываемое им, и на один или больше предыдущих коммитов.</li>
-<li>тэг &ndash; объект, который имеет ссылку на какой-то другой объект и какую-то дополнительную информацию об этом объекте. Чаще всего используется для добавления цифровых подписей к коммитам.</li>
-<li>packfile &ndash; файл, содержащий несколько других объектов в сжатом формате для компактности.</li>
+<li>BLOB &ndash; the content of the file, denoted by its hash. Each BLOB is a separate version of a file.</li>
+<li>a tree is analogous to a directory, which has links to sub-trees and BLOBs to represent one version of the working tree.</li>
+<li>A commit is a history element pointing to the tree it describes and one or more previous commits.</li>
+<li>tag - an object that has a link to some other object and some additional information about this object. Most commonly used to add digital signatures to commits.</li>
+<li>packfile &ndash; a file containing several other objects in a compressed format for compactness.</li>
 </ul>
-<p>Из-за этого дизайна каждый репозиторий содержит всю историю и может быть просмотрен локально. Это то, что делает Git <em>распределенной</em> СКВ.</p>
-<p>История коммитов устроена как односвязное дерево, и из-за того, что идентификаторы основаны на криптографическом хеше содержимого, это также можно воспринимать как экземпляр блокчейна. Каждый коммит может иметь родителя &ndash; коммит, на основании которого сделаны изменения. С помощью них можно идти назад в историю изменений. Поскольку каждый коммит идентифицируется своим хешем, то любое изменение истории требует пересчета хеша каждого из объектов дальше, что предоставляет криптографическую защиту от изменений.</p>
-<p>В дополнение к этому Git хранит базу ссылок. Head-объекты указывают на последний коммит в ветке, называют ветку, и тем самым фактически являются ветками. Один особый head, называемый HEAD, указывает на текущую ветку, от который идет сравнение с рабочим деревом. Также существуют tags, которые, как и head, указывают на коммиты, но в отличие от них не двигаются, и вместо этого могут быть использованы для обозначения важных точек в истории проекта.</p>
-<h1 id="процесс-ведения-истории">Процесс ведения истории</h1>
-<p>Git не регламентирует, как именно следует вести историю проекта. Один из вариантов, который предполагается к использованию в курсе ОС, предполагает короткоживущие ветки, внутри которых производится работа по реализации новой фичи, и затем эта ветка сливается в основное дерево, когда фича завершена. Другие варианты включают долгоживущие ветки, ранжированные по стабильности кода, или ветки, закрепленные за определенными членами команды.</p>
-<p>Разные методы имеют свои плюсы и минусы, которые более или менее явно проявляются в зависимости от типа проекта и методологии разработки, которую использует команда.</p>
-<h1 id="выводы">Выводы</h1>
-<p>Git &ndash; это одна из самых популярных СКВ, и это не случайно. Она была написана для того, чтобы разрешить проблемы с существовавшими СКВ, и она смогла решить их гораздо более эффективно, чем любые другие решения в то время.</p>
-<p>Одним из факторов ее популярности стало развитие сервисов хостинга Git, таких как GitHub, GitLab и BitBucket. Эти сервисы позволяют опубликовать Git-репозиторий и сделать его доступным из интернета, и их удобство привело к тому, что сейчас многие пользователи неразрывно ассоциируют Git с GitHub.</p>
-<p>Благодаря такой популярности, простоте казуального использования и при этом глубине функционала для продвинутого использования, Git теперь является необходимостью для любого рода разработки кода. Именно поэтому на курсе ОС мы изучаем основы использования Git.</p>
+<p>Because of this design, each repository contains the entire history and can be viewed locally. This is what makes Git <em>distributed</em> VCS.</p>
+<p>The commit history is structured as a singly-linked tree, and because the identifiers are based on a cryptographic hash of the content, this can also be thought of as a blockchain instance. Each commit can have a parent, the commit that the changes are based on. With the help of them you can go back to the history of changes. Since each commit is identified by its hash, any change in history requires the hash of each object to be recalculated further, which provides cryptographic protection against changes.</p>
+<p>In addition to this, Git maintains a linkbase. Head objects point to the latest commit on a branch, they call the branch, and are in fact branches. One special head, called HEAD, points to the current branch from which the comparison to the working tree is being made. There are also tags, which, like head, indicate commits, but unlike them do not move, and can instead be used to mark important points in the project&rsquo;s history.</p>
+<h1 id="history-keeping-process">History keeping process</h1>
+<p>Git does not dictate how a project&rsquo;s history should be maintained. One option that is supposed to be used in the OS course involves short-lived branches within which work is done to implement a new feature, and then this branch is merged into the main tree when the feature is completed. Other options include long-lived branches ranked by code stability, or branches assigned to specific team members.</p>
+<p>Different methods have their pros and cons, which are more or less obvious depending on the type of project and the development methodology that the team uses.</p>
+<h1 id="conclusions">Conclusions</h1>
+<p>Git is one of the most popular VCS, and for good reason. It was written to solve problems with existing SLEs, and it was able to solve them much more effectively than any other solution at the time.</p>
+<p>One of the factors behind its popularity has been the rise of Git hosting services such as GitHub, GitLab, and BitBucket. These services allow you to publish a Git repository and make it available from the web, and their convenience has led many users to now associate Git with GitHub.</p>
+<p>With such popularity, ease of casual use, and yet depth of functionality for advanced use, Git is now a must for any kind of code development. That is why in the OS course we learn the basics of using Git.</p>
 
     </div>
 
@@ -909,7 +909,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git/&amp;text=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/post/git/&amp;text=Version%20control%20and%20Git" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -922,7 +922,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git/&amp;t=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/post/git/&amp;t=Version%20control%20and%20Git" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -935,7 +935,7 @@
       
       
       <li>
-        <a href="mailto:?subject=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git&amp;body=https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Version%20control%20and%20Git&amp;body=https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -948,7 +948,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git/&amp;title=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/post/git/&amp;title=Version%20control%20and%20Git" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -961,7 +961,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git%20https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Version%20control%20and%20Git%20https://example.com/post/git/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -974,7 +974,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git/&amp;title=%d0%a3%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%20%d0%b2%d0%b5%d1%80%d1%81%d0%b8%d1%8f%d0%bc%d0%b8.%20Git" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/post/git/&amp;title=Version%20control%20and%20Git" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1013,7 +1013,7 @@
 
     <div class="media-body">
       <h5 class="card-title"><a href="https://example.com/">Генералов Даниил</a></h5>
-      <h6 class="card-subtitle">Студент, НПИ-01-21</h6>
+      <h6 class="card-subtitle">Student, НПИ-01-21</h6>
       <p class="card-text">████████, ████, и в целом ████ ██ ██████.</p>
       <ul class="network-icon" aria-hidden="true">
   
@@ -1158,7 +1158,7 @@
       
 
     
-    <script src="/js/vendor-bundle.min.92d2024afaa4dce0cad42ba360879ce9.js"></script>
+    <script src="/js/vendor-bundle.min.53d67dc2cb1ebceb89d5e2aba2f86112.js"></script>
 
     
     
@@ -1239,7 +1239,7 @@
 
     
     
-      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
     
     
     
@@ -1251,7 +1251,7 @@
       
     
     
-    <script src="/en/js/wowchemy.min.de33c90527762392d440555c36739dd9.js"></script>
+    <script src="/en/js/wowchemy.min.ab2f2890dbe3e2e83579366d3d6e8fd9.js"></script>
 
     
     

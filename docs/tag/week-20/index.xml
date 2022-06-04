@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Week 20 | Academic</title>
+    <title>Week 20 | Project site in English</title>
     <link>https://example.com/tag/week-20/</link>
       <atom:link href="https://example.com/tag/week-20/index.xml" rel="self" type="application/rss+xml" />
     <description>Week 20</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 18:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 20 May 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Week 20</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Weekly post 20</title>
-      <link>https://example.com/en/post/weekly-20/</link>
+      <link>https://example.com/post/weekly-20/</link>
       <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/weekly-20/</guid>
+      <guid>https://example.com/post/weekly-20/</guid>
       <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 20, 2022, and covers week 20, 2022.&lt;/p&gt;
 &lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
 &lt;p&gt;During the week, one of the non-standard circumstances was the control work on the subject &amp;ldquo;programming technology&amp;rdquo;, where it was necessary to implement some operations on lists and arrays.
@@ -44,9 +44,9 @@ This was somewhat complicated by the fact that the results of the work had to be
     
     <item>
       <title>Working with bibliographies</title>
-      <link>https://example.com/en/post/bibliography-management/</link>
+      <link>https://example.com/post/bibliography-management/</link>
       <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/en/post/bibliography-management/</guid>
+      <guid>https://example.com/post/bibliography-management/</guid>
       <description>&lt;p&gt;A bibliography is a set of records about the literature that was used in the preparation of a document.
 It serves as a way to cite past work on the topic and to provide links to sources for further information.&lt;/p&gt;
 &lt;p&gt;Usually the bibliography is printed at the end of the document, and sometimes there are references to certain entries from the text of the document.
@@ -83,80 +83,6 @@ if you select this style in the BibTeX settings, the record will look different.
 There are others like EndNote, Mendeley, RefWorks, Zotero, etc.
 They differ in their interface, supported citation formats, supported data attachments, etc., but most have BibTeX export options.
 Using such systems, it is possible to structure the set of literature used in the text, which makes it possible to write scientific articles with the correct references quickly and conveniently.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Еженедельный пост на неделю 20</title>
-      <link>https://example.com/ru/post/weekly-20/</link>
-      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-20/</guid>
-      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 20 мая 2022 года, и покрывает 20 неделю 2022 года.&lt;/p&gt;
-&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
-&lt;p&gt;В течение недели одним из нестандартных обстоятельств стала контрольная работа по предмету &amp;ldquo;технология программирования&amp;rdquo;, где нужно было реализовать некоторые операции над списками и массивами.
-Это несколько осложнилось тем, что результаты работы должны быть написаны на бумаге.&lt;/p&gt;
-&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;В зависимости от используемой среды передачи, аптайм систем может быть сильно больше или сильно меньше аптайма линий связи &amp;ndash; в случае с сотовой сетью системы перезагружаются чаще, а в случае с Wi-Fi &amp;ndash; чаще перезагружается сам линк.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Конфигурационный интерфейс OpenWRT не поддерживает указание особых директив DHCP-сервера, и их может быть нужно задавать через ручное редактирование конфигурационных файлов&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Частота семплирования, с которой работает осциллограф, может иметь диспропорциональное влияние на содержание сигнала, который измеряется им.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
-&lt;p&gt;Я не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.&lt;/p&gt;
-&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
-&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Работа с библиографией</title>
-      <link>https://example.com/ru/post/bibliography-management/</link>
-      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/bibliography-management/</guid>
-      <description>&lt;p&gt;Библиография &amp;ndash; это набор записей о литературе, которая использовалась при подготовке документа.
-Она служит как способ цитирования прошлой работы по теме и для предоставления ссылок на источники с дальнейшей информацией.&lt;/p&gt;
-&lt;p&gt;Обычно библиография печатается в конце документа, и иногда на определенные записи есть отсылки из текста документа.
-Например, если бы я хотел сказать что-то, про что можно прочитать в определенной книге, я бы написал что-то вроде:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;На системах, которые поддерживают это, название языка разметки TeX должно писаться полностью заглавными буквами,
-но буква E должна быть смещена вниз относительно базовой линии (см. [TEXBOOK]).&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;После этого, в части библиографии, я бы написал:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[TEXBOOK] D.E. Knuth, D. Knuth, D. Bibby, and American Mathematical Society. The TeXbook. Computers &amp;amp; typesetting. Addison-Wesley, 1986.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;С этой информацией читатель моего документа может обратиться в библиотеку, чтобы найти эту книгу и прочитать ту часть, о которой я говорю в тексте.&lt;/p&gt;
-&lt;p&gt;Такие записи можно писать вручную, но это быстро становится неудобным с увеличением количества источников.
-Поэтому системы составления научных статей, вроде TeX, имеют механизмы для управления библиографиями.&lt;/p&gt;
-&lt;p&gt;Например, в BibTeX используется файл, содержащий записи об используемых источниках.
-Та же самая книга будет записана в нем следующим образом:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nc&#34;&gt;@book&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;knuth1986texbook&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{The TeXbook}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Knuth, D.E. and Knuth, D. and Bibby, D. and American Mathematical Society}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;isbn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{9780201134476}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;lccn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{85030845}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;series&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Computers \&amp;amp; typesetting}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{https://books.google.ru/books?id=zqgQAQAAMAAJ}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;year&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{1986}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;publisher&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Addison-Wesley}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;В этом машинно-читаемом формате хранится информация, которая затем войдет в запись в библиографии.
-При этом вы можете заметить, что не все поля попали в запись.
-Это из-за того, что шаблон записей библиографии, который я использовал, не использует эту информацию.
-Если документ публикуется в каком-то журнале или другом издании, это издание наверняка имеет свой собственный стиль оформления библиографий;
-если выбрать этот стиль в настройках BibTeX, то запись будет выглядеть иначе.&lt;/p&gt;
-&lt;p&gt;BibTeX &amp;ndash; это одна из систем управления библиографиями.
-Существуют другие, вроде EndNote, Mendeley, RefWorks, Zotero и т.д.
-Они различаются по своему интерфейсу, по поддерживаемым форматам цитат, по поддерживаемым прикрепляемым данным и т.д, но большинство имеют опции экспорта в BibTeX.
-Используя такие системы, можно структурировать набор используемой в тексте литературы, что позволяет писать научные статьи с правильными ссылками быстрым и удобным.&lt;/p&gt;
 </description>
     </item>
     

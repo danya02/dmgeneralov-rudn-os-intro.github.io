@@ -4,11 +4,15 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: ru
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/ru
 
 # Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en
+  contentDir: content/en
+  title: Project site in English
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
