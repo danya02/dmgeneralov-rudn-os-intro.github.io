@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin | Academic</title>
+    <link>https://example.com/authors/admin/</link>
+      <atom:link href="https://example.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>admin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 18:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>admin</title>
+      <link>https://example.com/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/en/post/scientific-programming/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/scientific-programming/</guid>
+      <description>&lt;p&gt;Scientific programming is a field of programming that relies on the use of computers for research purposes.
+His tasks are often very different from industrial programming &amp;ndash;
+while there is often a focus on code readability and maintainability, here the speed with which the program design can be iterated is more important.&lt;/p&gt;
+&lt;p&gt;Because of this feature, many programming languages ​​are poorly suited for scientific programming.
+For example, Rust, with its focus on the formal correctness of all memory usages, often slows down the developer,
+and Java and other strictly object-oriented languages ​​require a more fundamental architecture than is often possible in scientific programming.&lt;/p&gt;
+&lt;p&gt;One of the languages ​​that is very often used in scientific programming is Python.
+It is very popular, has an easy-to-learn syntax, allows many different approaches to solving architectural problems,
+and also integrates into libraries written in C and C ++, which are faster and implement the most complex parts of the algorithms.
+This makes the Python language convenient for gluing different data together and processing it in different ways, which is exactly what is useful in scientific programming.&lt;/p&gt;
+&lt;p&gt;Other languages ​​that are often used for working with data &amp;ndash; R, Julia, and Ada &amp;ndash; have simple syntax, a rich type system, and links to C/C++ code,
+and all these features also make them useful in scientific programming.&lt;/p&gt;
+&lt;p&gt;Among other options, functional languages ​​like Haskell, F#, and Clojure allow algorithms to be described in a more declarative style &amp;ndash;
+don&amp;rsquo;t say what calculations are to be done, but instead state the formulas that need to be calculated in the end.&lt;/p&gt;
+&lt;p&gt;Rarer programming paradigms like logic programming &amp;ndash; as implemented in Prolog and Erlang, for example &amp;ndash; are rarely used in industrial applications,
+but in scientific programming they are often useful.
+In logic programming, the programmer specifies statements about terms &amp;ndash; for example, &amp;ldquo;If something is a cat, then it is an animal&amp;rdquo;,
+&amp;ldquo;If something is an animal, then it is alive or dead&amp;rdquo;, &amp;ldquo;If something is alive, then it is not dead&amp;rdquo;, &amp;ldquo;There is something called Barsik&amp;rdquo;, &amp;ldquo;If something is called Barsik, then it is a cat&amp;rdquo; and &amp;ldquo;If something is called Barsik, then it is not dead&amp;rdquo;.
+After that, you can ask questions like &amp;ldquo;What things are animals?&amp;rdquo;, &amp;ldquo;What things are alive and dead at the same time?&amp;rdquo;, &amp;ldquo;Is Barsik a cat and alive?&amp;rdquo; etc.
+This kind of reasoning is often called logical propositions, and most programs are difficult to translate into a form that consists entirely of logical propositions.
+However, in scientific programming, there are often questions that can be framed as logical statements, and such languages ​​help with this.&lt;/p&gt;
+&lt;p&gt;Thus, scientific programming has tasks that often differ from industrial tasks, so the set of languages ​​and paradigms that find application in scientific programming is very wide.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly post 21</title>
+      <link>https://example.com/en/post/weekly-21/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/weekly-21/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 28, 2022, and covers 21 weeks of 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;By all accounts, there are only a few weeks left until the end of this module. This circumstance was surprising to many, including me, who began to perceive what was happening as their personal hell.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The level of energy contained in the vault very often does not affect the structure of the vault itself, but can affect the environment if the vault is disturbed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lithium-ion batteries should be at a medium charge level in transit to minimize the risk of spontaneous combustion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USB devices can have up to 16 different virtual devices called &amp;ldquo;endpoints&amp;rdquo;. Protocols between them should not be unified.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;Works - do not touch.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;I still haven&amp;rsquo;t had time to do a full-fledged comparative analysis of 3D printers, which is necessary to determine the most rational choice for our project.
+This should be done as soon as possible.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 21</title>
+      <link>https://example.com/ru/post/weekly-21/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-21/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 28 мая 2022 года, и покрывает 21 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;По всем утверждениям, до конца этого модуля остается небольшое количество недель. Это обстоятельство оказалось удивительным для многих, включая меня, которые начали воспринимать происходящее как свой персональный ад.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Уровень энергии, заключенной в хранилище, очень часто никак не влияет на саму структуру хранилища, но может повлиять на окружение, если хранилище будет потревожено.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Литий-ионные аккумуляторы должны быть на среднем уровне заряда в транспортировке, чтобы минимизировать риск спонтанного возгорания.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USB-устройства могут иметь до 16 различных виртуальных устройств, называемых &amp;ldquo;endpoints&amp;rdquo;. Протоколы между ними не должны быть унифицированными.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;p&gt;Работает &amp;ndash; не трогай.&lt;/p&gt;
+&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Я до сих пор не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.
+Это следует сделать как можно скорее.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://example.com/ru/post/scientific-programming/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/scientific-programming/</guid>
+      <description>&lt;p&gt;Научное программирование &amp;ndash; это область программирования, которая основывается на том, чтобы использовать компьютеры для исследовательских задач.
+Его задачи часто сильно отличаются от промышленного программирования &amp;ndash;
+когда там часто есть фокус на читаемость кода и удобство поддержки, здесь же бывает важнее скорость, с которой можно итерировать дизайн программы.&lt;/p&gt;
+&lt;p&gt;Из-за этой особенности многие языки программирования плохо пригодны для научного программирования.
+Например, Rust, с его фокусом на формальную корректность всех использований памяти, часто тормозит разработчика,
+а Java и другие строго объектно-ориентированные языки требуют более фундаментальной архитектуры, чем часто возможна в научном программировании.&lt;/p&gt;
+&lt;p&gt;Один из языков, который очень часто используется в научном программировании &amp;ndash; это Python.
+Он очень популярен, имеет простой в освоении синтаксис, позволяет много разных подходов к решению архитектурных задач,
+и к тому же интегрируется в библиотеки, написанные на C и C++, которые работают быстрее и реализуют самые сложные части алгоритмов.
+Это делает язык Python удобным для склеивания вместе разных данных и обработки их различными способами, что как раз и полезно в научном программировании.&lt;/p&gt;
+&lt;p&gt;Другие языки, которые часто используются для работы с данными &amp;ndash; R, Julia и Ada &amp;ndash; имеют простой синтаксис, богатую систему типов, и связь с C/C++-кодом,
+и все эти функции тоже делают их полезными в научном программировании.&lt;/p&gt;
+&lt;p&gt;Среди других вариантов, функциональные языки, вроде Haskell, F# и Clojure, позволяют описывать алгоритмы в более декларативном стиле &amp;ndash;
+не говорить, какие вычисления должны быть сделаны, а вместо этого указывать формулы, которые в итоге нужно вычислить.&lt;/p&gt;
+&lt;p&gt;Более редкие парадигмы программирования вроде логического програмимирования &amp;ndash; реализованные, например, в Prolog и Erlang &amp;ndash; редко используются в промышленных задачах,
+но в научном программировании часто бывают полезны.
+В логическом программировании программист указывает утверждения по поводу терминов &amp;ndash; например, &amp;ldquo;Если что-то является кошкой, то это является животным&amp;rdquo;,
+&amp;ldquo;Если что-то является животным, то это является живым или мертвым&amp;rdquo;, &amp;ldquo;Если что-то является живым, то это не является мертвым&amp;rdquo;, &amp;ldquo;Существует что-то, что называется Барсик&amp;rdquo;, &amp;ldquo;Если что-то называется Барсик, то это является кошкой&amp;rdquo; и &amp;ldquo;Если что-то называется Барсик, то это не является мертвым&amp;rdquo;.
+После этого можно задавать вопросы вроде &amp;ldquo;Какие вещи являются животными?&amp;rdquo;, &amp;ldquo;Какие вещи являются живыми и мертвыми одновременно?&amp;rdquo;, &amp;ldquo;Является ли Барсик кошкой и живым?&amp;rdquo; и т.д.
+Такого рода рассуждения часто называют логическими высказываниями, и большинство программ трудно перевести к форме, которая целиком состоит из логических высказываний.
+Однако в научном программировании часто есть вопросы, которые можно оформить в виде логических утверждений, и такие языки помогают в этом.&lt;/p&gt;
+&lt;p&gt;Таким образом, научное программирование имеет задачи, которые часто отличаются от промышленных задач, поэтому набор языков и парадигм, которые находят применение в научном программировании, весьма широк.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly post 20</title>
+      <link>https://example.com/en/post/weekly-20/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/weekly-20/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 20, 2022, and covers week 20, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;During the week, one of the non-standard circumstances was the control work on the subject &amp;ldquo;programming technology&amp;rdquo;, where it was necessary to implement some operations on lists and arrays.
+This was somewhat complicated by the fact that the results of the work had to be written on paper.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Depending on the transmission medium used, the uptime of systems can be much more or much less than the uptime of communication lines - in the case of a cellular network, the systems reboot more often, and in the case of Wi-Fi, the link itself reboots more often.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The OpenWRT configuration interface does not support specifying specific DHCP server directives, and they may need to be set through manual editing of configuration files&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The sampling rate at which an oscilloscope operates can have a disproportionate effect on the signal content it measures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;I did not have time to do a full-fledged comparative analysis of 3D printers, which is necessary to determine the most rational choice for our project.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working with bibliographies</title>
+      <link>https://example.com/en/post/bibliography-management/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/bibliography-management/</guid>
+      <description>&lt;p&gt;A bibliography is a set of records about the literature that was used in the preparation of a document.
+It serves as a way to cite past work on the topic and to provide links to sources for further information.&lt;/p&gt;
+&lt;p&gt;Usually the bibliography is printed at the end of the document, and sometimes there are references to certain entries from the text of the document.
+For example, if I wanted to say something that can be read about in a certain book, I would write something like:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On systems that support this, the name of the TeX markup language must be written in full capital letters,
+but the letter E should be shifted down from the baseline (see [TEXBOOK]).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;After that, in the bibliography part, I would write:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[TEXBOOK] D.E. Knuth, D. Knuth, D. Bibby, and American Mathematical Society. The TeXbook. Computers &amp;amp; typesetting. Addison-Wesley, 1986.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With this information, the reader of my document can go to the library to find this book and read the part I am talking about in the text.&lt;/p&gt;
+&lt;p&gt;Such records can be written by hand, but this quickly becomes inconvenient as the number of sources increases.
+Therefore, scientific writing systems like TeX have mechanisms for managing bibliographies.&lt;/p&gt;
+&lt;p&gt;For example, BibTeX uses a file containing records of the sources used.
+The same book will be written in it as follows:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nc&#34;&gt;@book&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;knuth1986texbook&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{The TeXbook}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Knuth, D.E. and Knuth, D. and Bibby, D. and American Mathematical Society}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;isbn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{9780201134476}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;lccn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{85030845}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;series&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Computers\&amp;amp; typesetting}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{https://books.google.ru/books?id=zqgQAQAAMAAJ}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;year&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{1986}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;publisher&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Addison-Wesley}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This machine-readable format stores information that will then be included in the entry in the bibliography.
+However, you may notice that not all fields were included in the record.
+This is because the bibliography entry template I used does not use this information.
+If a document is published in a journal or other publication, this publication will certainly have its own style of bibliography;
+if you select this style in the BibTeX settings, the record will look different.&lt;/p&gt;
+&lt;p&gt;BibTeX is one of the bibliography management systems.
+There are others like EndNote, Mendeley, RefWorks, Zotero, etc.
+They differ in their interface, supported citation formats, supported data attachments, etc., but most have BibTeX export options.
+Using such systems, it is possible to structure the set of literature used in the text, which makes it possible to write scientific articles with the correct references quickly and conveniently.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 20</title>
+      <link>https://example.com/ru/post/weekly-20/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-20/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 20 мая 2022 года, и покрывает 20 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;В течение недели одним из нестандартных обстоятельств стала контрольная работа по предмету &amp;ldquo;технология программирования&amp;rdquo;, где нужно было реализовать некоторые операции над списками и массивами.
+Это несколько осложнилось тем, что результаты работы должны быть написаны на бумаге.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В зависимости от используемой среды передачи, аптайм систем может быть сильно больше или сильно меньше аптайма линий связи &amp;ndash; в случае с сотовой сетью системы перезагружаются чаще, а в случае с Wi-Fi &amp;ndash; чаще перезагружается сам линк.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Конфигурационный интерфейс OpenWRT не поддерживает указание особых директив DHCP-сервера, и их может быть нужно задавать через ручное редактирование конфигурационных файлов&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Частота семплирования, с которой работает осциллограф, может иметь диспропорциональное влияние на содержание сигнала, который измеряется им.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Я не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Работа с библиографией</title>
+      <link>https://example.com/ru/post/bibliography-management/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/bibliography-management/</guid>
+      <description>&lt;p&gt;Библиография &amp;ndash; это набор записей о литературе, которая использовалась при подготовке документа.
+Она служит как способ цитирования прошлой работы по теме и для предоставления ссылок на источники с дальнейшей информацией.&lt;/p&gt;
+&lt;p&gt;Обычно библиография печатается в конце документа, и иногда на определенные записи есть отсылки из текста документа.
+Например, если бы я хотел сказать что-то, про что можно прочитать в определенной книге, я бы написал что-то вроде:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;На системах, которые поддерживают это, название языка разметки TeX должно писаться полностью заглавными буквами,
+но буква E должна быть смещена вниз относительно базовой линии (см. [TEXBOOK]).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;После этого, в части библиографии, я бы написал:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[TEXBOOK] D.E. Knuth, D. Knuth, D. Bibby, and American Mathematical Society. The TeXbook. Computers &amp;amp; typesetting. Addison-Wesley, 1986.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;С этой информацией читатель моего документа может обратиться в библиотеку, чтобы найти эту книгу и прочитать ту часть, о которой я говорю в тексте.&lt;/p&gt;
+&lt;p&gt;Такие записи можно писать вручную, но это быстро становится неудобным с увеличением количества источников.
+Поэтому системы составления научных статей, вроде TeX, имеют механизмы для управления библиографиями.&lt;/p&gt;
+&lt;p&gt;Например, в BibTeX используется файл, содержащий записи об используемых источниках.
+Та же самая книга будет записана в нем следующим образом:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bibtex&#34; data-lang=&#34;bibtex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; &lt;span class=&#34;nc&#34;&gt;@book&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nl&#34;&gt;knuth1986texbook&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{The TeXbook}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Knuth, D.E. and Knuth, D. and Bibby, D. and American Mathematical Society}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;isbn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{9780201134476}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;lccn&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{85030845}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;series&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Computers \&amp;amp; typesetting}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;url&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{https://books.google.ru/books?id=zqgQAQAAMAAJ}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;year&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{1986}&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;na&#34;&gt;publisher&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;{Addison-Wesley}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;В этом машинно-читаемом формате хранится информация, которая затем войдет в запись в библиографии.
+При этом вы можете заметить, что не все поля попали в запись.
+Это из-за того, что шаблон записей библиографии, который я использовал, не использует эту информацию.
+Если документ публикуется в каком-то журнале или другом издании, это издание наверняка имеет свой собственный стиль оформления библиографий;
+если выбрать этот стиль в настройках BibTeX, то запись будет выглядеть иначе.&lt;/p&gt;
+&lt;p&gt;BibTeX &amp;ndash; это одна из систем управления библиографиями.
+Существуют другие, вроде EndNote, Mendeley, RefWorks, Zotero и т.д.
+Они различаются по своему интерфейсу, по поддерживаемым форматам цитат, по поддерживаемым прикрепляемым данным и т.д, но большинство имеют опции экспорта в BibTeX.
+Используя такие системы, можно структурировать набор используемой в тексте литературы, что позволяет писать научные статьи с правильными ссылками быстрым и удобным.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markup languages, LaTeX</title>
+      <link>https://example.com/en/post/latex/</link>
+      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/latex/</guid>
+      <description>&lt;p&gt;A markup language is a way of writing text in a format that is suitable for machine processing and often contains, in addition to the text, instructions for displaying that text.
+There are many different markup languages ​​that work well for different tasks.&lt;/p&gt;
+&lt;p&gt;We will consider the LaTeX language, which is most often used for writing scientific papers.
+It is an extension of the TeX layout language, invented by Donald Knuth in 1978.
+Backslashes are used to call commands, and curly braces are used to specify arguments:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is &lt;span class=&#34;k&#34;&gt;\emph&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;in italics&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is in &lt;span class=&#34;k&#34;&gt;\textbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;bold&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;This text is larger than usual.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;This text is even larger than usual.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;This text is STILL larger than usual.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;This text is huge.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;This text is Huge.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;One of the most famous features of the LaTeX language is the ability to enter complex mathematical formulas. For example, this code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\Delta&lt;/span&gt; M&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;-1&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; = - &lt;span class=&#34;k&#34;&gt;\alpha&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;n=1&lt;span class=&#34;nb&#34;&gt;}^&lt;/span&gt;N D&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ \sum_{j \in C \left[ i \right]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{}&lt;/span&gt; F&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;ji&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n -1 \right]&lt;/span&gt; + Fext&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n^{-1} \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\right&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip;displayed as follows:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Equation&#34; srcset=&#34;
+               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp 400w,
+               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_a3eafbc8655cf0f82ada9ef5713825cf.webp 760w,
+               /en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/en/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;112&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(This expression is the title of &lt;a href=&#34;https://www.youtube.com/watch?v=M9xMuPWAZW8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one of Aphex Twin&amp;rsquo;s tracks&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Because of this capability, LaTeX remains the gold standard for formatting mathematical texts, and it is not uncommon for other document authoring environments (such as Microsoft Word) to copy some of the syntax.
+Some programs even use the LaTeX engine as part of their work &amp;ndash; for example, Pandoc uses it to convert documents to PDF, and &lt;a href=&#34;https://www.manim.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Manim&amp;rsquo;s programmable animation library&lt;/a&gt; uses it to display mathematical formulas in SVG format.&lt;/p&gt;
+&lt;p&gt;LaTeX also has a wide standard library that allows you to use it to display pictures, graphs, code blocks, and more. Thus, LaTeX is one of the most important markup languages ​​for scientific documents, and it is worth knowing for anyone who plans to write documents with mathematical formulas or other complex display elements.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly post 19</title>
+      <link>https://example.com/en/post/weekly-19/</link>
+      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/weekly-19/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 14, 2022, and covers week 19, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;It is impossible to provide special important reports for this week, as well as for the previous one.
+This is because we are now in a cycle of work that seems to be endless, and it is becoming more and more difficult to tell one week from the next.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Macros in Rust should have a form in which, even without expanding the macro, the code represents a valid syntax tree. This distinguishes them from macros in C/C++, where they only perform text replacement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The amount of disk space occupied by video recordings of work in progress exceeds the usefulness of these videos by several orders of magnitude. Under the current circumstances, the amount used for these videos should be reduced.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The use of Rutube - the Russian platform - in industrial activities is contraindicated, since it is not able to withstand the SLA that can be expected from alternative platforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;As part of this personal project, we learn how to find ways to optimize work. These methods sometimes lead to lower quality, but following the classic trichotomy of requirements, we can sacrifice this for the greater good.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;Fairly poor progress on a robotics project that was assigned to me in an elective course. One of the main reasons for this is that the power supply of the robot consists of 18650 batteries, and the ones that are available to me are quite broken.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 19</title>
+      <link>https://example.com/ru/post/weekly-19/</link>
+      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-19/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 14 мая 2022 года, и покрывает 19 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;Особенных важных отчетов по этой неделе, как и по предыдущей, предоставить невозможно.
+Это потому, что сейчас мы находимся в цикле работы, который кажется бесконечным, и отличить одну неделю от другой становится все более и более трудно.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Макросы в Rust должны иметь вид, при котором даже без раскрытия макроса код представляет валидное синтаксическое дерево. Это отличает их от макросов в C/C++, где они лишь выполняют текстовую замену.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Объем диска, который занимают записи видео выполнения работы, на несколько порядков превышает пользу этих видео. В текущих обстоятельствах следует сократить объем, используемый для этих видео.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Использовать Rutube &amp;ndash; российскую платформу &amp;ndash; в промышленной деятельности оказывается противопоказано, поскольку она не способна выдерживать SLA, которые можно ожидать от альтернативных платформ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;p&gt;В рамках выполнения этого персонального проекта мы учимся находить способы оптимизации работы. Эти способы иногда приводят к понижению качества, но, следуя классической трихотомии требований, мы можем этим пожертвовать для общего блага.&lt;/p&gt;
+&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Довольно низкая степень прогресса над проектом робототехники, который был назначен мне на курсе по выбору. Одна из основных причин этого в том, что блок питания робота состоит из аккумуляторов 18650, а те экземпляры, которые доступны мне, весьма сломаны.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://example.com/ru/post/latex/</link>
+      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/latex/</guid>
+      <description>&lt;p&gt;Язык разметки &amp;ndash; это способ записи текста в формате, который пригоден для машинной обработки, и часто содержит, помимо текста, инструкции по отображению этого текста.
+Существует много различных языков разметки, которые работают хорошо для разных задач.&lt;/p&gt;
+&lt;p&gt;Мы будем рассматривать язык LaTeX, который чаще всего используется для написания научных работ.
+Он является расширением языка верстки TeX, изобретенным Дональдом Кнутом в 1978 году.
+Для вызова команд используется обратный слеш, а для указания аргументов &amp;ndash; фигурные скобки:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Этот текст &lt;span class=&#34;k&#34;&gt;\emph&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;выделен курсивом&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Этот текст написан &lt;span class=&#34;k&#34;&gt;\textbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;жирным шрифтом&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст ещё больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Large&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст ЕЩЁ больше обычного.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;LARGE&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст огромный.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;Этот текст Огромный.&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Huge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Одна из самых известных способностей языка LaTeX &amp;ndash; это возможность вводить сложные математические формулы. Например, этот код:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\Delta&lt;/span&gt; M&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i&lt;span class=&#34;nb&#34;&gt;^{&lt;/span&gt;-1&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; = - &lt;span class=&#34;k&#34;&gt;\alpha&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\sum&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;n=1&lt;span class=&#34;nb&#34;&gt;}^&lt;/span&gt;N D&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ \sum_{j \in C \left[ i \right]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{}&lt;/span&gt; F&lt;span class=&#34;nb&#34;&gt;_{&lt;/span&gt;ji&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n -1 \right]&lt;/span&gt; + Fext&lt;span class=&#34;nb&#34;&gt;_&lt;/span&gt;i &lt;span class=&#34;k&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[ n^{-1} \right]&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;\right&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;equation&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip;отображается следующим образом:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Equation&#34; srcset=&#34;
+               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp 400w,
+               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_a3eafbc8655cf0f82ada9ef5713825cf.webp 760w,
+               /ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/ru/post/latex/eqn_hu81151ef91c65c79ffde3f129f0b3a363_39053_6519337c2ff5e914eb3879beb6e327c4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;112&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Это выражение является названием &lt;a href=&#34;https://www.youtube.com/watch?v=M9xMuPWAZW8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;одного из треков композитора Aphex Twin&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Из-за этой возможности LaTeX остается золотым стандартом форматирования математических текстов, и часто другие среды создания документов (например Microsoft Word) копируют некоторые элементы синтаксиса.
+Некоторые программы даже используют движок LaTeX как часть своей работы &amp;ndash; так, Pandoc использует его для преобразования документов в формат PDF, а &lt;a href=&#34;https://www.manim.community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;библиотека программируемых анимаций Manim&lt;/a&gt; использует его для отображения математических формул в виде SVG.&lt;/p&gt;
+&lt;p&gt;LaTeX также имеет широкую стандартную библиотеку, которая позволяет использовать его для отображения картинок, графиков, блоков кода и многого другого. Таким образом, язык LaTeX является одним из важнейших языков разметки в сфере научных документов, и его стоит знать любому, кто планирует писать документы с математическими формулами или другими сложными элементами отображения.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control and Git</title>
+      <link>https://example.com/en/post/git/</link>
+      <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/git/</guid>
+      <description>&lt;p&gt;Modification Control Systems (VCS) allow you to track changes in your code, look through history to look for specific changes, and coordinate work on the same code base between multiple developers.
+Today we will look at how one of the most popular VCS, Git, works.&lt;/p&gt;
+&lt;h1 id=&#34;story&#34;&gt;Story&lt;/h1&gt;
+&lt;p&gt;Git was developed in 2005 by Linus Torvalds to help develop the Linux kernel. Shortly before this, there was a scandal with Bitkeeper, a proprietary version control system that was used by many developers, but was no longer available for free after the copyright holder found out that it was reverse-engineered to create SourcePuller.&lt;/p&gt;
+&lt;p&gt;The goals of the project were: to make a distributed VCS that could support a procedure similar to Bitkeeper, but was also fast (no more than three seconds to apply a patch) and had strong protection against errors and unintentional modifications.&lt;/p&gt;
+&lt;h1 id=&#34;principles&#34;&gt;Principles&lt;/h1&gt;
+&lt;p&gt;Git&amp;rsquo;s primitive data structures do not necessarily implement VCS. There are two places where information is stored &amp;ndash; a dynamic &lt;em&gt;index&lt;/em&gt; that describes the state of the working tree, and an immutable &lt;em&gt;object database&lt;/em&gt;. The latter stores the following five types of objects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLOB &amp;ndash; the content of the file, denoted by its hash. Each BLOB is a separate version of a file.&lt;/li&gt;
+&lt;li&gt;a tree is analogous to a directory, which has links to sub-trees and BLOBs to represent one version of the working tree.&lt;/li&gt;
+&lt;li&gt;A commit is a history element pointing to the tree it describes and one or more previous commits.&lt;/li&gt;
+&lt;li&gt;tag - an object that has a link to some other object and some additional information about this object. Most commonly used to add digital signatures to commits.&lt;/li&gt;
+&lt;li&gt;packfile &amp;ndash; a file containing several other objects in a compressed format for compactness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because of this design, each repository contains the entire history and can be viewed locally. This is what makes Git &lt;em&gt;distributed&lt;/em&gt; VCS.&lt;/p&gt;
+&lt;p&gt;The commit history is structured as a singly-linked tree, and because the identifiers are based on a cryptographic hash of the content, this can also be thought of as a blockchain instance. Each commit can have a parent, the commit that the changes are based on. With the help of them you can go back to the history of changes. Since each commit is identified by its hash, any change in history requires the hash of each object to be recalculated further, which provides cryptographic protection against changes.&lt;/p&gt;
+&lt;p&gt;In addition to this, Git maintains a linkbase. Head objects point to the latest commit on a branch, they call the branch, and are in fact branches. One special head, called HEAD, points to the current branch from which the comparison to the working tree is being made. There are also tags, which, like head, indicate commits, but unlike them do not move, and can instead be used to mark important points in the project&amp;rsquo;s history.&lt;/p&gt;
+&lt;h1 id=&#34;history-keeping-process&#34;&gt;History keeping process&lt;/h1&gt;
+&lt;p&gt;Git does not dictate how a project&amp;rsquo;s history should be maintained. One option that is supposed to be used in the OS course involves short-lived branches within which work is done to implement a new feature, and then this branch is merged into the main tree when the feature is completed. Other options include long-lived branches ranked by code stability, or branches assigned to specific team members.&lt;/p&gt;
+&lt;p&gt;Different methods have their pros and cons, which are more or less obvious depending on the type of project and the development methodology that the team uses.&lt;/p&gt;
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+&lt;p&gt;Git is one of the most popular VCS, and for good reason. It was written to solve problems with existing SLEs, and it was able to solve them much more effectively than any other solution at the time.&lt;/p&gt;
+&lt;p&gt;One of the factors behind its popularity has been the rise of Git hosting services such as GitHub, GitLab, and BitBucket. These services allow you to publish a Git repository and make it available from the web, and their convenience has led many users to now associate Git with GitHub.&lt;/p&gt;
+&lt;p&gt;With such popularity, ease of casual use, and yet depth of functionality for advanced use, Git is now a must for any kind of code development. That is why in the OS course we learn the basics of using Git.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly post 18</title>
+      <link>https://example.com/en/post/weekly-18/</link>
+      <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/weekly-18/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 7, 2022, and covers week 18, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;Overall, week 18 was similar to week 17, and both were more productive than week 16.
+This is because the format of this course is still unfamiliar and goes against my previous experience.
+Therefore, according to the sensations, it turned out only to do the work at the rate of the OS and nothing more useful.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The AVR architecture has three system timers. The first one is usually used for real time tracking, the second one for precise PWM signals, and the third one for approximate PWM signals.&lt;/li&gt;
+&lt;li&gt;As before, the model of reality based on the theory of complete determinism with the addition of randomness through quantum mechanics seems to be the most accurate description of reality.&lt;/li&gt;
+&lt;li&gt;The video game The Stanley Parable: Ultra Deluxe (2022) puts forward a model of reality based on the central thesis that everything (with the possible exception of the narrator and the player character) is a bucket, and therefore any attempt to limit the number of buckets in the world inevitably leads to the destruction of the world in the current understanding. This model must be carefully considered by the engineers of metaphysics to determine its scope.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;With the understanding that all timing in the AVR is done with three timers, it is now possible to write code that connects one of the timers to the pins on the chip, allowing you to implement PWM signals from scratch as part of the Rust Arduino environment project.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;As in weeks 16 and 17, there is a feeling that almost nothing can be done from the plans. This feeling is based on the fact that the work on the OS course takes a very long time and requires full concentration (due to the fact that the video is being recorded), and after completing one stage, it is difficult to convince yourself to do the next. It basically boils down to the fact that I have not yet developed a stable strategy for allocating work and rest time, which, combined with the drastic change in the load profile, leads to this feeling of lack of progress.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;In order to solve the above problems, the most promising solution is to develop task allocation schemes that are comfortable enough for everyday use and that allow active tasks to be solved more efficiently.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 18</title>
+      <link>https://example.com/ru/post/weekly-18/</link>
+      <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-18/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 7 мая 2022 года, и покрывает 18 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;В целом неделя 18 была похожа на неделю 17, и обе из них были более продуктивны, чем неделя 16.
+Это потому, что формат работы по этому курсу до сих пор непривычен, и идет в разрез с моим предыдущим опытом.
+Поэтому, по ощущениям, получилось только сделать работу по курсу ОС и ничего более полезного.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;В AVR-архитектуре присутствуют три системных таймера. Первый обычно используется для отслеживания реального времени, второй &amp;ndash; для точных ШИМ-сигналов, а третий &amp;ndash; для приблизительных ШИМ-сигналов.&lt;/li&gt;
+&lt;li&gt;Как и раньше, модель действительности, основанная на теории полного детерминизма с добавлением случайности через квантовую механику, кажется наиболее точно описывающей действительность.&lt;/li&gt;
+&lt;li&gt;Видеоигра The Stanley Parable: Ultra Deluxe (2022) выдвигает модель действительности, основанную на центральном тезисе, что всё (за возможным исключением рассказчика и персонажа игрока) является ведром, и поэтому любые попытки ограничить количество ведер в мире неизбежно приводят к уничтожению мира в текущем понимании. Эта модель должна быть тщательно рассмотрена инженерами метафизики, чтобы определить её область применения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;p&gt;Благодаря пониманию, что вся работа с временем в AVR осуществляется с помощью трех таймеров, можно теперь писать код, который связывает один из таймеров с выводами чипа, что позволит реализовать ШИМ-сигналы с нуля в рамках проекта реализации окружения Arduino на Rust.&lt;/p&gt;
+&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Как на неделях 16 и 17, есть ощущение, будто почти ничего не получается делать из планов. Это ощущение основанно на том, что работа по курсу ОС занимает очень долгое время и требует полной концентрации (из-за того, что происходит видеозапись), а после выполнения одного этапа трудно убедить себя делать следующий. В целом это сводится к тому, что я пока что не выработал стабильную стратегию аллокации времени работы и отдыха, что в сочитании с резким изменением профиля нагрузки приводит к этому ощущению отсутствия прогресса.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Для того, чтобы решить вышеупомянутые проблемы, самое перспективное решение &amp;ndash; это разрабатывать схемы распределения задач, которые были бы достаточно удобными для повседневного использования и которые позволили бы с большей эффективностью решать активные задачи.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git</title>
+      <link>https://example.com/ru/post/git/</link>
+      <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git/</guid>
+      <description>&lt;p&gt;Системы контроля модификаций (СКВ) позволяют отслеживать изменения в коде, просматривать историю для поиска определенных изменений, а также координировать работу над одной и той же базой кода между несколькими разработчиками.
+Сегодня мы рассмотрим, как устроена одна из самых популярных СКВ &amp;ndash; Git.&lt;/p&gt;
+&lt;h1 id=&#34;история&#34;&gt;История&lt;/h1&gt;
+&lt;p&gt;Git был разработан в 2005 году Линусом Торвальдсом для помощи в разрботке ядра Linux. Незадолго до этого произошел скандал с Bitkeeper &amp;ndash; проприетарной системой контроля версий, которая использовалась многими разработчиками, но перестала быть бесплатно доступна после того, как правообладатель узнал, что она была обратно-разработана, чтобы создать SourcePuller.&lt;/p&gt;
+&lt;p&gt;Целями проекта были: сделать распределенную СКВ, которая могла бы поддерживать процедуру, похожую на Bitkeeper, но также была быстрой (не более трех секунд на применение патча) и имела сильную защиту от ошибок и непреднамеренных модификаций.&lt;/p&gt;
+&lt;h1 id=&#34;принципы&#34;&gt;Принципы&lt;/h1&gt;
+&lt;p&gt;Примитивные структуры данных Git не обязательно реализуют СКВ. Существуют два места, где хранится информация &amp;ndash; динамический &lt;em&gt;индекс&lt;/em&gt;, который описывает состояние рабочего дерева, и неизменяемая &lt;em&gt;база данных объектов&lt;/em&gt;. В последней хранятся следующие пять типов объектов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BLOB &amp;ndash; содержимое файла, обозначаемое своим хешем. Каждый BLOB &amp;ndash; это отдельная версия файла.&lt;/li&gt;
+&lt;li&gt;дерево &amp;ndash; это аналог директории, которая имеет ссылки на под-деревья и BLOB, чтобы представить одну версию рабочего дерева.&lt;/li&gt;
+&lt;li&gt;коммит &amp;ndash; это элемент истории, указывающий на дерево, описываемое им, и на один или больше предыдущих коммитов.&lt;/li&gt;
+&lt;li&gt;тэг &amp;ndash; объект, который имеет ссылку на какой-то другой объект и какую-то дополнительную информацию об этом объекте. Чаще всего используется для добавления цифровых подписей к коммитам.&lt;/li&gt;
+&lt;li&gt;packfile &amp;ndash; файл, содержащий несколько других объектов в сжатом формате для компактности.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Из-за этого дизайна каждый репозиторий содержит всю историю и может быть просмотрен локально. Это то, что делает Git &lt;em&gt;распределенной&lt;/em&gt; СКВ.&lt;/p&gt;
+&lt;p&gt;История коммитов устроена как односвязное дерево, и из-за того, что идентификаторы основаны на криптографическом хеше содержимого, это также можно воспринимать как экземпляр блокчейна. Каждый коммит может иметь родителя &amp;ndash; коммит, на основании которого сделаны изменения. С помощью них можно идти назад в историю изменений. Поскольку каждый коммит идентифицируется своим хешем, то любое изменение истории требует пересчета хеша каждого из объектов дальше, что предоставляет криптографическую защиту от изменений.&lt;/p&gt;
+&lt;p&gt;В дополнение к этому Git хранит базу ссылок. Head-объекты указывают на последний коммит в ветке, называют ветку, и тем самым фактически являются ветками. Один особый head, называемый HEAD, указывает на текущую ветку, от который идет сравнение с рабочим деревом. Также существуют tags, которые, как и head, указывают на коммиты, но в отличие от них не двигаются, и вместо этого могут быть использованы для обозначения важных точек в истории проекта.&lt;/p&gt;
+&lt;h1 id=&#34;процесс-ведения-истории&#34;&gt;Процесс ведения истории&lt;/h1&gt;
+&lt;p&gt;Git не регламентирует, как именно следует вести историю проекта. Один из вариантов, который предполагается к использованию в курсе ОС, предполагает короткоживущие ветки, внутри которых производится работа по реализации новой фичи, и затем эта ветка сливается в основное дерево, когда фича завершена. Другие варианты включают долгоживущие ветки, ранжированные по стабильности кода, или ветки, закрепленные за определенными членами команды.&lt;/p&gt;
+&lt;p&gt;Разные методы имеют свои плюсы и минусы, которые более или менее явно проявляются в зависимости от типа проекта и методологии разработки, которую использует команда.&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Git &amp;ndash; это одна из самых популярных СКВ, и это не случайно. Она была написана для того, чтобы разрешить проблемы с существовавшими СКВ, и она смогла решить их гораздо более эффективно, чем любые другие решения в то время.&lt;/p&gt;
+&lt;p&gt;Одним из факторов ее популярности стало развитие сервисов хостинга Git, таких как GitHub, GitLab и BitBucket. Эти сервисы позволяют опубликовать Git-репозиторий и сделать его доступным из интернета, и их удобство привело к тому, что сейчас многие пользователи неразрывно ассоциируют Git с GitHub.&lt;/p&gt;
+&lt;p&gt;Благодаря такой популярности, простоте казуального использования и при этом глубине функционала для продвинутого использования, Git теперь является необходимостью для любого рода разработки кода. Именно поэтому на курсе ОС мы изучаем основы использования Git.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/en/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/en/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/ru/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

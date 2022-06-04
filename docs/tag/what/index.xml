@@ -14,9 +14,19 @@
     
     <item>
       <title>Этот сайт</title>
-      <link>https://example.com/project/this/</link>
+      <link>https://example.com/en/project/this/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/this/</guid>
+      <guid>https://example.com/en/project/this/</guid>
+      <description>&lt;p&gt;Для оптимизации работы над этим сайтом, как проект мы будем использовать сам этот сайт.&lt;/p&gt;
+&lt;p&gt;Это должно быть описание проекта, но про этот конкретный проект ничего ценного не может быть сказано.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Этот сайт</title>
+      <link>https://example.com/ru/project/this/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/this/</guid>
       <description>&lt;p&gt;Для оптимизации работы над этим сайтом, как проект мы будем использовать сам этот сайт.&lt;/p&gt;
 &lt;p&gt;Это должно быть описание проекта, но про этот конкретный проект ничего ценного не может быть сказано.&lt;/p&gt;
 </description>

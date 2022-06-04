@@ -5,7 +5,7 @@
     <link>https://example.com/tag/reflection/</link>
       <atom:link href="https://example.com/tag/reflection/index.xml" rel="self" type="application/rss+xml" />
     <description>Reflection</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 18:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Reflection</title>
@@ -13,10 +13,100 @@
     </image>
     
     <item>
-      <title>Еженедельный пост на неделю 20</title>
-      <link>https://example.com/post/weekly-20/</link>
+      <title>Weekly post 21</title>
+      <link>https://example.com/en/post/weekly-21/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/en/post/weekly-21/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 28, 2022, and covers 21 weeks of 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;By all accounts, there are only a few weeks left until the end of this module. This circumstance was surprising to many, including me, who began to perceive what was happening as their personal hell.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The level of energy contained in the vault very often does not affect the structure of the vault itself, but can affect the environment if the vault is disturbed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lithium-ion batteries should be at a medium charge level in transit to minimize the risk of spontaneous combustion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USB devices can have up to 16 different virtual devices called &amp;ldquo;endpoints&amp;rdquo;. Protocols between them should not be unified.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;Works - do not touch.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;I still haven&amp;rsquo;t had time to do a full-fledged comparative analysis of 3D printers, which is necessary to determine the most rational choice for our project.
+This should be done as soon as possible.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 21</title>
+      <link>https://example.com/ru/post/weekly-21/</link>
+      <pubDate>Sat, 28 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-21/</guid>
+      <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 28 мая 2022 года, и покрывает 21 неделю 2022 года.&lt;/p&gt;
+&lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
+&lt;p&gt;По всем утверждениям, до конца этого модуля остается небольшое количество недель. Это обстоятельство оказалось удивительным для многих, включая меня, которые начали воспринимать происходящее как свой персональный ад.&lt;/p&gt;
+&lt;h1 id=&#34;основные-инсайты&#34;&gt;Основные инсайты&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Уровень энергии, заключенной в хранилище, очень часто никак не влияет на саму структуру хранилища, но может повлиять на окружение, если хранилище будет потревожено.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Литий-ионные аккумуляторы должны быть на среднем уровне заряда в транспортировке, чтобы минимизировать риск спонтанного возгорания.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;USB-устройства могут иметь до 16 различных виртуальных устройств, называемых &amp;ldquo;endpoints&amp;rdquo;. Протоколы между ними не должны быть унифицированными.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;главный-инсайт&#34;&gt;Главный инсайт&lt;/h1&gt;
+&lt;p&gt;Работает &amp;ndash; не трогай.&lt;/p&gt;
+&lt;h1 id=&#34;что-не-удалось-сделать&#34;&gt;Что не удалось сделать&lt;/h1&gt;
+&lt;p&gt;Я до сих пор не успел сделать полноценный сравнительный анализ 3D-принтеров, который нужен, чтобы определить наиболее рациональный выбор для нашего проекта.
+Это следует сделать как можно скорее.&lt;/p&gt;
+&lt;h1 id=&#34;работа-над-ошибками&#34;&gt;Работа над ошибками&lt;/h1&gt;
+&lt;p&gt;Как раньше, требуется составить стабильную схему планирования задач, которая не нарушалась бы малыми изменениями от расписания, а также составить бэклог задач, чтобы их можно было эффективно планировать, делегировать или откладывать.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly post 20</title>
+      <link>https://example.com/en/post/weekly-20/</link>
       <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-20/</guid>
+      <guid>https://example.com/en/post/weekly-20/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 20, 2022, and covers week 20, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;During the week, one of the non-standard circumstances was the control work on the subject &amp;ldquo;programming technology&amp;rdquo;, where it was necessary to implement some operations on lists and arrays.
+This was somewhat complicated by the fact that the results of the work had to be written on paper.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Depending on the transmission medium used, the uptime of systems can be much more or much less than the uptime of communication lines - in the case of a cellular network, the systems reboot more often, and in the case of Wi-Fi, the link itself reboots more often.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The OpenWRT configuration interface does not support specifying specific DHCP server directives, and they may need to be set through manual editing of configuration files&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The sampling rate at which an oscilloscope operates can have a disproportionate effect on the signal content it measures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;long&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;I did not have time to do a full-fledged comparative analysis of 3D printers, which is necessary to determine the most rational choice for our project.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 20</title>
+      <link>https://example.com/ru/post/weekly-20/</link>
+      <pubDate>Fri, 20 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-20/</guid>
       <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 20 мая 2022 года, и покрывает 20 неделю 2022 года.&lt;/p&gt;
 &lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
 &lt;p&gt;В течение недели одним из нестандартных обстоятельств стала контрольная работа по предмету &amp;ldquo;технология программирования&amp;rdquo;, где нужно было реализовать некоторые операции над списками и массивами.
@@ -43,10 +133,40 @@
     </item>
     
     <item>
-      <title>Еженедельный пост на неделю 19</title>
-      <link>https://example.com/post/weekly-19/</link>
+      <title>Weekly post 19</title>
+      <link>https://example.com/en/post/weekly-19/</link>
       <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-19/</guid>
+      <guid>https://example.com/en/post/weekly-19/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 14, 2022, and covers week 19, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;It is impossible to provide special important reports for this week, as well as for the previous one.
+This is because we are now in a cycle of work that seems to be endless, and it is becoming more and more difficult to tell one week from the next.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Macros in Rust should have a form in which, even without expanding the macro, the code represents a valid syntax tree. This distinguishes them from macros in C/C++, where they only perform text replacement.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The amount of disk space occupied by video recordings of work in progress exceeds the usefulness of these videos by several orders of magnitude. Under the current circumstances, the amount used for these videos should be reduced.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The use of Rutube - the Russian platform - in industrial activities is contraindicated, since it is not able to withstand the SLA that can be expected from alternative platforms.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;As part of this personal project, we learn how to find ways to optimize work. These methods sometimes lead to lower quality, but following the classic trichotomy of requirements, we can sacrifice this for the greater good.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;Fairly poor progress on a robotics project that was assigned to me in an elective course. One of the main reasons for this is that the power supply of the robot consists of 18650 batteries, and the ones that are available to me are quite broken.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;As before, you need to create a stable task scheduling scheme that would not be disturbed by small changes from the schedule, as well as create a backlog of tasks so that they can be effectively scheduled, delegated or postponed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 19</title>
+      <link>https://example.com/ru/post/weekly-19/</link>
+      <pubDate>Sat, 14 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-19/</guid>
       <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 14 мая 2022 года, и покрывает 19 неделю 2022 года.&lt;/p&gt;
 &lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
 &lt;p&gt;Особенных важных отчетов по этой неделе, как и по предыдущей, предоставить невозможно.
@@ -73,10 +193,35 @@
     </item>
     
     <item>
-      <title>Еженедельный пост на неделю 18</title>
-      <link>https://example.com/post/weekly-18/</link>
+      <title>Weekly post 18</title>
+      <link>https://example.com/en/post/weekly-18/</link>
       <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-18/</guid>
+      <guid>https://example.com/en/post/weekly-18/</guid>
+      <description>&lt;p&gt;This is a weekly post that is required by the rules for maintaining a personal project. This post was written on May 7, 2022, and covers week 18, 2022.&lt;/p&gt;
+&lt;h1 id=&#34;how-was-the-week&#34;&gt;How was the week&lt;/h1&gt;
+&lt;p&gt;Overall, week 18 was similar to week 17, and both were more productive than week 16.
+This is because the format of this course is still unfamiliar and goes against my previous experience.
+Therefore, according to the sensations, it turned out only to do the work at the rate of the OS and nothing more useful.&lt;/p&gt;
+&lt;h1 id=&#34;key-insights&#34;&gt;Key insights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The AVR architecture has three system timers. The first one is usually used for real time tracking, the second one for precise PWM signals, and the third one for approximate PWM signals.&lt;/li&gt;
+&lt;li&gt;As before, the model of reality based on the theory of complete determinism with the addition of randomness through quantum mechanics seems to be the most accurate description of reality.&lt;/li&gt;
+&lt;li&gt;The video game The Stanley Parable: Ultra Deluxe (2022) puts forward a model of reality based on the central thesis that everything (with the possible exception of the narrator and the player character) is a bucket, and therefore any attempt to limit the number of buckets in the world inevitably leads to the destruction of the world in the current understanding. This model must be carefully considered by the engineers of metaphysics to determine its scope.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;main-insight&#34;&gt;Main insight&lt;/h1&gt;
+&lt;p&gt;With the understanding that all timing in the AVR is done with three timers, it is now possible to write code that connects one of the timers to the pins on the chip, allowing you to implement PWM signals from scratch as part of the Rust Arduino environment project.&lt;/p&gt;
+&lt;h1 id=&#34;what-failed-to-do&#34;&gt;What failed to do&lt;/h1&gt;
+&lt;p&gt;As in weeks 16 and 17, there is a feeling that almost nothing can be done from the plans. This feeling is based on the fact that the work on the OS course takes a very long time and requires full concentration (due to the fact that the video is being recorded), and after completing one stage, it is difficult to convince yourself to do the next. It basically boils down to the fact that I have not yet developed a stable strategy for allocating work and rest time, which, combined with the drastic change in the load profile, leads to this feeling of lack of progress.&lt;/p&gt;
+&lt;h1 id=&#34;work-on-mistakes&#34;&gt;Work on mistakes&lt;/h1&gt;
+&lt;p&gt;In order to solve the above problems, the most promising solution is to develop task allocation schemes that are comfortable enough for everyday use and that allow active tasks to be solved more efficiently.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Еженедельный пост на неделю 18</title>
+      <link>https://example.com/ru/post/weekly-18/</link>
+      <pubDate>Sat, 07 May 2022 18:30:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/weekly-18/</guid>
       <description>&lt;p&gt;Это еженедельный пост, который требуется по правилам ведения персонального проекта. Этот пост написан 7 мая 2022 года, и покрывает 18 неделю 2022 года.&lt;/p&gt;
 &lt;h1 id=&#34;как-прошла-неделя&#34;&gt;Как прошла неделя&lt;/h1&gt;
 &lt;p&gt;В целом неделя 18 была похожа на неделю 17, и обе из них были более продуктивны, чем неделя 16.
